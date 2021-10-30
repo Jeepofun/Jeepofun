@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeepofun
 - 👀 I’m interested in ... OCR, Running, Fishing, Hunting, Music
-- 🌱 I’m currently learning ... Web development
+- 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... doncmiller@live.om
 
