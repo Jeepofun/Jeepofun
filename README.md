@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Don Miller
 - 👀 I’m interested in ... OCR, Running, Fishing, Hunting, Music
 - 🌱 I’m currently learning ... Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Using data driven insights to solve marketing problems
 - 📫 How to reach me ... doncmiller@live.om
 
 <!---
